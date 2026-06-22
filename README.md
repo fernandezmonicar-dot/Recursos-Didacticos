@@ -18,5 +18,5 @@ El objetivo principal es transformar contenidos tradicionalmente abstractos en a
 
 ## 📂 Vista Previa del Material
 Si querés ver el diseño de las páginas, podés abrir las muestras directamente acá:
-👉 **[Ver Portada y Teoría del Cuadernillo](ACA_PODES_SUBIR_UNA_FOTO_DE_LA_HOJA_1)**
-👉 **[Ver Actividades Prácticas](ACA_PODES_SUBIR_UNA_FOTO_DE_LA_HOJA_2)**
+![Teoría](3[1].png)
+![Ejercicios](7[1].png))
