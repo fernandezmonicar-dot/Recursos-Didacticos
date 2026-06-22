@@ -17,7 +17,7 @@ El objetivo principal es transformar contenidos tradicionalmente abstractos en a
 4. **Operaciones Combinadas:** Jerarquía de operaciones y separación en términos.
 
 ## 📂 Vista Previa del Material
-![Teoría](3[1].png)
+![Teoría](4[1].png)
 ![Ejercicios](7[1].png)
 
 # 📚 Números Racionales (Unidad II)
@@ -31,6 +31,6 @@ El objetivo principal es transformar contenidos tradicionalmente abstractos en a
 
 ## 📂 Vista Previa del Material
 ### Teoría y Hoja de Ruta
-![Teoría Fracciones](2[1]_2.jpg)
+![Teoría Fracciones](3[1].png)
 ### Ejercitación Práctica ("¡Ahora te toca a vos!")
 ![Ejercicios Fracciones](8[1].png)
