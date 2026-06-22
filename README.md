@@ -17,6 +17,5 @@ El objetivo principal es transformar contenidos tradicionalmente abstractos en a
 4. **Operaciones Combinadas:** Jerarquía de operaciones y separación en términos.
 
 ## 📂 Vista Previa del Material
-Si querés ver el diseño de las páginas, podés abrir las muestras directamente acá:
 ![Teoría](3[1].png)
-![Ejercicios](7[1].png))
+![Ejercicios](7[1].png)
