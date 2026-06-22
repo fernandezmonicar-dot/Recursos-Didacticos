@@ -1,4 +1,4 @@
-# 📚 Cuadernillo Didáctico: Números Enteros (Unidad I)
+# 📚 Números Enteros (Unidad I)
 
 ¡Bienvenido/a al repositorio de este recurso pedagógico! Este cuadernillo fue diseñado desde cero con un enfoque didáctico, empático y visual, pensado especialmente para estudiantes de educación secundaria. 
 
