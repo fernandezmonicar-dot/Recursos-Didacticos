@@ -23,10 +23,12 @@ El objetivo principal es transformar contenidos tradicionalmente abstractos en a
 # 📚 Números Racionales (Unidad II)
 
 ## 📖 Contenidos de la Unidad
-1.**Concepto y gráficos:** Qué es una fracción, cómo se lee y cómo dibujarla sin morir en el intento.
-2.**Fracciones Equivalentes:** Cómo escribir el mismo número de formas distintas y el secreto de la simplificación (achicar la fracción para hacernos la vida más fácil).
-3.**El gran cambiazo:** Cómo pasar de fracción a número decimal (con coma) y al revés, para usar lo que más te convenga en cada cuenta.
-4.**Operaciones sin drama:** Sumar, restar, multiplicar y dividir fracciones usando trucos rápidos para no marearte con los números de abajo.
+
+1. **Concepto y gráficos:** Qué es una fracción, cómo se lee y cómo dibujarla sin morir en el intento.
+2. **Fracciones Equivalentes:** Cómo escribir el mismo número de formas distintas y el secreto de la simplificación (achicar la fracción para hacernos la vida más fácil).
+3. **El gran cambiazo:** Cómo pasar de fracción a número decimal (con coma) y al revés, para usar lo que más te convenga en cada cuenta.
+4. **Operaciones sin drama:** Sumar, restar, multiplicar y dividir fracciones usando trucos rápidos para no marearte con los números de abajo.
+
 ## 📂 Vista Previa del Material
 ### Teoría y Hoja de Ruta
 ![Teoría Fracciones](2[1]_2.jpg)
